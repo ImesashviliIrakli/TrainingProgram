@@ -25,24 +25,31 @@
   - Daniel Solis, Cal Schrotenboer - Illustrated C# 7
   
 - **Pluralsight Paths:**
-  - <a href="https://app.pluralsight.com/paths/skill/csharp">**C# Development Fundamentals**</a>
-    - C# 9: The Big Picture. **(OPTIONAL)**
-    - C# 9: Getting Started.
-    - Controlling Program Flow in C# 9. **(OPTIONAL)**
-    - Introduction to the C# 9 Type System.
-    - C# 8 Interfaces. **(OPTIONAL)**
-    - C# 9 Generics. **(OPTIONAL)**
-    - Working with Arrays and Collections in C# 9.
-    - C# 9 Language-Integrated Query. **(LINQ)**
-    - Exception Handling in C# 9.
-    - Object-Oriented Programming Fundamentals in C#.
-  
-  - <a href="https://app.pluralsight.com/paths/skill/c-10">**C# 10**</a>
-    - C# 10 Fundamentals.
-    - Debugging C# 10.
-    - C# 10 Dependency Injection. 
-    - C# 10 Design Patterns. **(OPTIONAL)**
-    - Asynchronous Programming in C# 10. **(OPTIONAL)**
+   
+    - <details><summary><a href="https://app.pluralsight.com/paths/skill/csharp"> <strong>C# Development Fundamentals</strong> </a></summary>
+      <ul>
+        <li>C# 9: The Big Picture. <strong>(OPTIONAL)</strong></li>
+        <li>C# 9: Getting Started.</li>
+        <li>Controlling Program Flow in C# 9. <strong>(OPTIONAL)</strong></li>
+        <li>Introduction to the C# 9 Type System.</li>
+        <li>C# 8 Interfaces. <strong>(OPTIONAL)</strong></li>
+        <li>C# 9 Generics. <strong>(OPTIONAL)</strong></li>
+        <li>Working with Arrays and Collections in C# 9.</li>
+        <li>C# 9 Language-Integrated Query. <strong>(LINQ)</strong></li>
+        <li>Exception Handling in C# 9.</li>
+        <li>Object-Oriented Programming Fundamentals in C#.</li>
+      </ul>
+    </details>
+    
+    - <details><summary><a href="https://app.pluralsight.com/paths/skill/c-10"><strong>C# 10</strong></a></summary>
+      <ul>
+        <li>C# 10 Fundamentals.</li>
+        <li>Debugging C# 10.</li>
+        <li>C# 10 Dependency Injection.</li>
+        <li>C# 10 Design Patterns. <strong>(OPTIONAL)</strong></li>
+        <li>Asynchronous Programming in C# 10. <strong>(OPTIONAL)</strong></li>
+      </ul>
+    </details>
 
 | **№** | **Task Name** | **What to do** |
 | ------------- | --------------------------- | -------------------- |
@@ -60,26 +67,34 @@
   - Itzik Ben-Gan - T-SQL Fundamentals
 
 - **Pluralsight Paths:**
-  - <a href="https://app.pluralsight.com/paths/skill/querying-data-with-t-sql-from-sql-server">**Querying Data with T-SQL from SQL Server**</a>  
-    - Querying Data Using T-SQL.
-    - Combining and Filtering Data with T-SQL 2019.
-    - T-SQL Data Manipulation Playbook.
-    - Capturing Logic with Stored Procedures in T-SQL.
-    - T-SQL Functions Playbook.
-    - Querying JSON, XML, and Temporal Data with T-SQL. **(OPTIONAL)**
-    - Handling Errors in T-SQL. **(OPTIONAL)**
+
+  - <details><summary><a href="https://app.pluralsight.com/paths/skill/querying-data-with-t-sql-from-sql-server"><strong>Querying Data with T-SQL from SQL Server</strong></a></summary>
+      <ul>
+        <li>Querying Data Using T-SQL.</li>
+        <li>Combining and Filtering Data with T-SQL 2019.</li>
+        <li>T-SQL Data Manipulation Playbook.</li>
+        <li>Capturing Logic with Stored Procedures in T-SQL.</li>
+        <li>T-SQL Functions Playbook.</li>
+         <li>Querying JSON, XML, and Temporal Data with T-SQL. <strong>(OPTIONAL)</strong></li>
+        <li>Handling Errors in T-SQL. <strong>(OPTIONAL)</strong></li>
+      </ul>
+    </details>
     
 ## Part 3 - .NET Fundamentals
 
 - **Books:**
 
 - **Pluralsight Paths:**
-  - <a href="https://app.pluralsight.com/paths/skill/aspnet-core-6">**ASP.NET Core 6**</a>
-    - ASP.NET Core 6: Big Picture.
-    - ASP.NET Core 6 Fundamentals.
-    - Debugging and Error Hangling in ASP.NET Core 6.
-    - Loggin and Monitorying in ASP.NET Core 6.
-    - Dependency Injection in ASP.NET Core 6.
+
+  - <details><summary><a href="https://app.pluralsight.com/paths/skill/aspnet-core-6"><strong>ASP.NET Core 6</strong></a></summary>
+      <ul>
+        <li>ASP.NET Core 6: Big Picture.</li>
+        <li>ASP.NET Core 6 Fundamentals.</li>
+        <li>Debugging and Error Hangling in ASP.NET Core 6.</li>
+        <li>Loggin and Monitorying in ASP.NET Core 6.</strong></li>
+        <li>Dependency Injection in ASP.NET Core 6.</strong></li>
+      </ul>
+    </details>
 
   - Optional Courses on Pluralsight.
     - <a href="https://app.pluralsight.com/library/courses/asp-dot-net-core-6-razor-pages-fundamentals/table-of-contents">**ASP.NET Core 6 Razor Pages Fundamentals**</a>
