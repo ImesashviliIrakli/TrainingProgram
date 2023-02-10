@@ -91,7 +91,36 @@
     - <a href="https://app.pluralsight.com/paths/skills/ef-core-6">**EF Core 6**</a>  
     - <a href="https://app.pluralsight.com/paths/skill/entity-framework-core">**Entity Framework Core**</a> 
     
+  ##### ADO.NET (Optional)
+  - **Pluralsight Coureses:**
+    - <a href="https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals/table-of-contents">**Implementing ADO.NET 4 with C# 8**</a>
+    - <a href="https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents">**Data Access in C# 10 Fundamentals**</a>
 
+## Part 6
 
+### Best Practicwhat is es
+  
+  - **Principles:**
+    - **Object-Oriented Programming:**
+      - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop">**Microsoft**</a>
+      - <a href="https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/">**c-sharpcorner**</a>
+      - <a href="https://www.freecodecamp.org/news/what-is-object-oriented-programming/">**FreeCodeCamp**</a>
+      - <a href="https://www.educba.com/what-is-oop/">**educba**</a>
+  
+    - **SOLID:**
+      - <a href="https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/">**FreeCodeCamp**</a>
+      - <a href="https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/">**c-sharpcorner**</a>
+
+    - **KISS, YAGNI, DRY:**
+      - <a href="https://www.boldare.com/blog/kiss-yagni-dry-principles/">**Boldare**</a>    
+    
+  - **Pluralsight Paths:**
+    - <a href="https://app.pluralsight.com/paths/skills/c-development-best-practices">**C# Development Best Practices**</a>
+      - Clean Coding Principles in C#.
+      - Object-Oriented Programming Fundamentals in C#.
+      - Defensive Coding in C#.
+      - Refactoring for C# Developers.
+      - Solid Principles for C# Developers.
+      - Applying Asynchronous Programming in C# 8.
 
 
