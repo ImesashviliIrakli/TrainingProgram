@@ -17,7 +17,7 @@
 - <a href="https://learn.microsoft.com/en-us/">**learn.microsoft.com**</a>
 - <a href="https://app.pluralsight.com/library/">**pluralsight.com**</a>
 - <a href="https://code-maze.com/">**code-maze.com**</a>
-- <a href=""></a>
+- <a href="https://drive.google.com/drive/u/5/folders/0APnGHKQXjx1OUk9PVA">**View books on Google Drive**</a>
 ## Part 1 - C# Fundamentals
 
 - **Books:**
