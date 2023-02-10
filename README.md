@@ -33,12 +33,12 @@
 
 ### Tasks (C# Fundamentals).
 
-| **№** | **Task Name** |
+| **№** | **Task Name** | **What to do** |
 | ------------- | --------------------------- |
-| 1  | HelloWorld  |
-| 2  | WorkingWithStrings  |
-| 3  | ParsingStrings  |
-| 4  | WorkingWithArrays  |
-| 5  | LinqToObjects  |
-| 6  | ClassesAndObjects  |
+| 1  | HelloWorld  | Must make all tests Green |
+| 2  | WorkingWithStrings  | Must make all tests Green |
+| 3  | ParsingStrings  | Must make all tests Green |
+| 4  | WorkingWithArrays  | Must make all tests Green |
+| 5  | LinqToObjects  | Must make all tests Green |
+| 6  | ClassesAndObjects  | Must make all tests Green |
 
