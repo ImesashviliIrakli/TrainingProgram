@@ -98,29 +98,28 @@
 
 ## Part 6
 
-### Best Practicwhat is es
+### Best Practices and Principles.
   
-  - **Principles:**
-    - **Object-Oriented Programming:**
-      - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop">**Microsoft**</a>
-      - <a href="https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/">**c-sharpcorner**</a>
-      - <a href="https://www.freecodecamp.org/news/what-is-object-oriented-programming/">**FreeCodeCamp**</a>
-      - <a href="https://www.educba.com/what-is-oop/">**educba**</a>
+- **Object-Oriented Programming:**
+  - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop">**Microsoft**</a>
+  - <a href="https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/">**c-sharpcorner**</a>
+  - <a href="https://www.freecodecamp.org/news/what-is-object-oriented-programming/">**FreeCodeCamp**</a>
+  - <a href="https://www.educba.com/what-is-oop/">**educba**</a>
   
-    - **SOLID:**
-      - <a href="https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/">**FreeCodeCamp**</a>
-      - <a href="https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/">**c-sharpcorner**</a>
+- **SOLID:**
+  - <a href="https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/">**FreeCodeCamp**</a>
+  - <a href="https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/">**c-sharpcorner**</a>
 
-    - **KISS, YAGNI, DRY:**
-      - <a href="https://www.boldare.com/blog/kiss-yagni-dry-principles/">**Boldare**</a>    
+- **KISS, YAGNI, DRY:**
+  - <a href="https://www.boldare.com/blog/kiss-yagni-dry-principles/">**Boldare**</a>      
     
-  - **Pluralsight Paths:**
-    - <a href="https://app.pluralsight.com/paths/skills/c-development-best-practices">**C# Development Best Practices**</a>
-      - Clean Coding Principles in C#.
-      - Object-Oriented Programming Fundamentals in C#.
-      - Defensive Coding in C#.
-      - Refactoring for C# Developers.
-      - Solid Principles for C# Developers.
-      - Applying Asynchronous Programming in C# 8.
+- **Pluralsight Paths:**
+  - <a href="https://app.pluralsight.com/paths/skills/c-development-best-practices">**C# Development Best Practices**</a>
+    - Clean Coding Principles in C#.
+    - Object-Oriented Programming Fundamentals in C#.
+    - Defensive Coding in C#.
+    - Refactoring for C# Developers.
+    - Solid Principles for C# Developers.
+    - Applying Asynchronous Programming in C# 8.
 
 
