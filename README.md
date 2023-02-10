@@ -1,8 +1,6 @@
 # TrainingProgram
 
-## Part 1
-
-### C# Fundamentals
+## Part 1 - C# Fundamentals
 
 - **Books:**
   - Jon Skeet - C# in Depth-Manning Publications Company.
@@ -28,9 +26,7 @@
     - C# 10 Design Patterns. **(OPTIONAL)**
     - Asynchronous Programming in C# 10. **(OPTIONAL)**
 
-## Part 2
-
-### Tasks (C# Fundamentals).
+## Part 2 - Tasks (C# Fundamentals).
 
 | **№** | **Task Name** | **What to do** |
 | ------------- | --------------------------- | -------------------- |
@@ -42,9 +38,7 @@
 | 6  | ClassesAndObjects  | Must make all tests Green ✅|
 
 
-## Part 3
-
-### SQL Fundamentals.
+## Part 3 - SQL Fundamentals.
 
 - **Books:**
   - Itzik Ben-Gan - T-SQL Fundamentals
@@ -59,9 +53,7 @@
     - Querying JSON, XML, and Temporal Data with T-SQL. **(OPTIONAL)**
     - Handling Errors in T-SQL. **(OPTIONAL)**
     
-## Part 4
-
-### .NET Fundamentals
+## Part 4 - .NET Fundamentals
 
 - **Books:**
 
@@ -76,9 +68,7 @@
   - Optional Courses on Pluralsight.
     - <a href="https://app.pluralsight.com/library/courses/asp-dot-net-core-6-razor-pages-fundamentals/table-of-contents">**ASP.NET Core 6 Razor Pages Fundamentals**</a>
     
-## Part 5
-
-### ORM's
+## Part 5 - ORM's
 
   ##### Dapper
   - **Dappers Official Documentaion:** <a href="https://dapper-tutorial.net/dapper">**Click Here**</a>
@@ -96,9 +86,7 @@
     - <a href="https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals/table-of-contents">**Implementing ADO.NET 4 with C# 8**</a>
     - <a href="https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents">**Data Access in C# 10 Fundamentals**</a>
 
-## Part 6
-
-### Best Practices and Principles.
+## Part 6 - Best Practices and Principles. 
   
 - **Object-Oriented Programming:**
   - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop">**Microsoft**</a>
