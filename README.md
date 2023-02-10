@@ -12,6 +12,12 @@
 
 **Once again, welcome to the beginner C# development training program on GitHub!**
 
+## Resources
+
+- <a href="https://learn.microsoft.com/en-us/">**learn.microsoft.com**</a>
+- <a href="https://app.pluralsight.com/library/">**pluralsight.com**</a>
+- <a href="https://code-maze.com/">**code-maze.com**</a>
+- <a href=""></a>
 ## Part 1 - C# Fundamentals
 
 - **Books:**
