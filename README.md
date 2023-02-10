@@ -18,7 +18,8 @@
 - <a href="https://app.pluralsight.com/library/">**pluralsight.com**</a>
 - <a href="https://code-maze.com/">**code-maze.com**</a>
 - <a href="https://drive.google.com/drive/u/5/folders/0APnGHKQXjx1OUk9PVA">**View books on Google Drive**</a>
-## Part 1 - C# Fundamentals
+
+<h2>Part 1 - C# Fundamentals</h2>
 
 - **Books:**
   - Jon Skeet - C# in Depth-Manning Publications Company.
@@ -60,8 +61,7 @@
 | 5  | LinqToObjects  | Must make all tests Green ✅|
 | 6  | ClassesAndObjects  | Must make all tests Green ✅|
 
-
-## Part 2 - SQL Fundamentals.
+<h2>Part 2 - SQL Fundamentals.</h2>
 
 - **Books:**
   - Itzik Ben-Gan - T-SQL Fundamentals
@@ -80,7 +80,7 @@
       </ul>
     </details>
     
-## Part 3 - .NET Fundamentals
+<h2>Part 3 - .NET Fundamentals</h2>
 
 - **Books:**
 
@@ -91,54 +91,85 @@
         <li>ASP.NET Core 6: Big Picture.</li>
         <li>ASP.NET Core 6 Fundamentals.</li>
         <li>Debugging and Error Hangling in ASP.NET Core 6.</li>
-        <li>Loggin and Monitorying in ASP.NET Core 6.</strong></li>
-        <li>Dependency Injection in ASP.NET Core 6.</strong></li>
+        <li>Loggin and Monitorying in ASP.NET Core 6.</li>
+        <li>Dependency Injection in ASP.NET Core 6.</li>
       </ul>
     </details>
 
   - Optional Courses on Pluralsight.
     - <a href="https://app.pluralsight.com/library/courses/asp-dot-net-core-6-razor-pages-fundamentals/table-of-contents">**ASP.NET Core 6 Razor Pages Fundamentals**</a>
     
-## Part 4 - ORM's
+<h2>Part 4 - ORM's</h2>
 
-  ##### Dapper
-  - **Dappers Official Documentaion:** <a href="https://dapper-tutorial.net/dapper">**Click Here**</a>
-  - **Pluralsight:** <a href="https://dapper-tutorial.net/dapper](https://app.pluralsight.com/library/courses/getting-started-dapper/table-of-contents">**Dapper Getting Started**</a>
+  - <details><summary><strong>Dapper</strong></summary>
+      <ul>
+        <li>Dappers Official Documentaion: <a href="https://dapper-tutorial.net/dapper">Click Here</a></li>
+        <li>Pluralsight: <a href="https://dapper-tutorial.net/dapper](https://app.pluralsight.com/library/courses/getting-started-dapper/table-of-contents">Dapper Getting Started</a></li>
+      </ul>
+    </details>
 
-  ##### Entity FrameWork (Optional)
-  - **Microsoft Documentation:** <a href="https://learn.microsoft.com/en-us/ef/core/">**Entity Framework Core**</a>
+  - <details><summary><strong>Entity FrameWork (Optional)</strong></summary>
+      <ul>
+        <li>Microsoft Documentation: <a href="https://learn.microsoft.com/en-us/ef/core/">Entity Framework Core</a></li>
+        <li>
+          Pluralsight Paths:
+          <ul>
+            <li><a href="https://app.pluralsight.com/paths/skills/ef-core-6">EF Core 6</a></li>
+            <li><a href="https://app.pluralsight.com/paths/skill/entity-framework-core">Entity Framework Core</a></li>
+          </ul>
+        </li>
+      </ul>
+    </details>
 
-  - **Pluralsight Paths:**
-    - <a href="https://app.pluralsight.com/paths/skills/ef-core-6">**EF Core 6**</a>  
-    - <a href="https://app.pluralsight.com/paths/skill/entity-framework-core">**Entity Framework Core**</a> 
+  - <details><summary><strong>ADO.NET (Optional)</strong></summary>
+      <ul>
+        <li>
+          <strong>Pluralsight Coureses:</strong>
+          <ul>
+            <li><a href="https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals/table-of-contents">Implementing ADO.NET 4 with C# 8</a></li>
+            <li><a href="https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents">Data Access in C# 10 Fundamentals</a></li>
+          </ul>
+        </li>
+      </ul>
+    </details>
     
-  ##### ADO.NET (Optional)
-  - **Pluralsight Coureses:**
-    - <a href="https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals/table-of-contents">**Implementing ADO.NET 4 with C# 8**</a>
-    - <a href="https://app.pluralsight.com/library/courses/c-sharp-10-data-access-fundamentals/table-of-contents">**Data Access in C# 10 Fundamentals**</a>
-
-## Part 5 - Best Practices and Principles. 
+<h2>Part 5 - Best Practices and Principles.</h2>
   
-- **Object-Oriented Programming:**
-  - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop">**Microsoft**</a>
-  - <a href="https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/">**c-sharpcorner**</a>
-  - <a href="https://www.freecodecamp.org/news/what-is-object-oriented-programming/">**FreeCodeCamp**</a>
-  - <a href="https://www.educba.com/what-is-oop/">**educba**</a>
+  - <details><summary><strong>Pluralsight Paths:</strong></summary>
+      <ul>
+        <li> <a href="https://app.pluralsight.com/paths/skills/c-development-best-practices">C# Development Best Practices</a></li>
+        <ul>
+          <li>Clean Coding Principles in C#.</li>
+          <li>Object-Oriented Programming Fundamentals in C#.</li>
+          <li>Defensive Coding in C#.</li>
+          <li>Refactoring for C# Developers.</li>
+          <li>Solid Principles for C# Developers.</li>
+          <li>Applying Asynchronous Programming in C# 8.</li>
+        </ul>
+      </ul>
+   </details>
   
-- **SOLID:**
-  - <a href="https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/">**FreeCodeCamp**</a>
-  - <a href="https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/">**c-sharpcorner**</a>
-
-- **KISS, YAGNI, DRY:**
-  - <a href="https://www.boldare.com/blog/kiss-yagni-dry-principles/">**Boldare**</a>      
+  - <details><summary><strong>Object-Oriented Programming:</strong></summary>
+      <ul>
+        <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop">Microsoft</a></li>
+        <li><a href="https://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/">c-sharpcorner</a></li>
+        <li><a href="https://www.freecodecamp.org/news/what-is-object-oriented-programming/">FreeCodeCamp</a></li>
+        <li><a href="https://www.educba.com/what-is-oop/">educba</a></li>
+      </ul>
+    </details>
+  
+  - <details><summary><strong>SOLID:</strong></summary>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/">FreeCodeCamp</a></li>
+        <li><a href="https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/">c-sharpcorner</a></li>
+      </ul>
+    </details>
+  
+  - <details><summary><strong>KISS, YAGNI, DRY:</strong></summary>
+      <ul>
+        <li><a href="https://www.boldare.com/blog/kiss-yagni-dry-principles/">Boldare</a> </li>
+      </ul>
+    </details>   
     
-- **Pluralsight Paths:**
-  - <a href="https://app.pluralsight.com/paths/skills/c-development-best-practices">**C# Development Best Practices**</a>
-    - Clean Coding Principles in C#.
-    - Object-Oriented Programming Fundamentals in C#.
-    - Defensive Coding in C#.
-    - Refactoring for C# Developers.
-    - Solid Principles for C# Developers.
-    - Applying Asynchronous Programming in C# 8.
-
-
+ 
+   
