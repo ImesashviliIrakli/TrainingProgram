@@ -54,12 +54,12 @@
 
 | **№** | **Task Name** | **What to do** |
 | ------------- | --------------------------- | -------------------- |
-| 1  | HelloWorld  | Must make all tests Green ✅|
-| 2  | WorkingWithStrings  | Must make all tests Green ✅ |
-| 3  | ParsingStrings  | Must make all tests Green ✅ |
-| 4  | WorkingWithArrays  | Must make all tests Green  ✅|
-| 5  | LinqToObjects  | Must make all tests Green ✅|
-| 6  | ClassesAndObjects  | Must make all tests Green ✅|
+| 1  | <a href=""></a>HelloWorld  | Must make all tests Green ✅|
+| 2  | <a href="https://github.com/ImesashviliIrakli/WorkingWithArrays">WorkingWithStrings</a> | Must make all tests Green ✅ |
+| 3  | <a href="https://github.com/ImesashviliIrakli/ParsingStrings">ParsingStrings</a> | Must make all tests Green ✅ |
+| 4  | <a href="https://github.com/ImesashviliIrakli/WorkingWithArrays">WorkingWithArrays</a> | Must make all tests Green  ✅|
+| 5  | <a href="https://github.com/ImesashviliIrakli/LinqToObjects">LinqToObjects</a> | Must make all tests Green ✅|
+| 6  | <a href="https://github.com/ImesashviliIrakli/ClassesAndObjects">ClassesAndObjects</a> | Must make all tests Green ✅|
 
 <h2>Part 2 - SQL Fundamentals.</h2>
 
