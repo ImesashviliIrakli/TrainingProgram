@@ -2,7 +2,7 @@
 
 **Hello and welcome to the C#/.NET/SQL development training program!**
 
-**We're thrilled to have you join us on this journey to learn and grow as a C# developer. Our goal for this program is to provide you with a solid foundation in C# programming, and to equip you with the skills you need to start building your own applications.**
+**We're thrilled to have you join us on this journey to learn and grow as a .NET developer. Our goal for this program is to provide you with a solid foundation in C# programming, .NET framework, and SQL and to equip you with the skills you need to start working on tasks.**
 
 **Whether you're new to programming, or you have some experience but want to dive deeper into C#, this program is designed to meet your needs. Our expert instructors will guide you through the basics of C# syntax and concepts, and you'll have the opportunity to practice your skills with hands-on coding exercises and projects.**
 
