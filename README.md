@@ -55,7 +55,7 @@
 | **№** | **Task Name** | **What to do** |
 | ------------- | --------------------------- | -------------------- |
 | 1  | <a href="https://github.com/ImesashviliIrakli/HelloWorld">HelloWorld  </a>| Must make all tests Green ✅|
-| 2  | <a href="https://github.com/ImesashviliIrakli/WorkingWithArrays">WorkingWithStrings</a> | Must make all tests Green ✅ |
+| 2  | <a href="https://github.com/ImesashviliIrakli/WorkingWithStrings">WorkingWithStrings</a> | Must make all tests Green ✅ |
 | 3  | <a href="https://github.com/ImesashviliIrakli/ParsingStrings">ParsingStrings</a> | Must make all tests Green ✅ |
 | 4  | <a href="https://github.com/ImesashviliIrakli/WorkingWithArrays">WorkingWithArrays</a> | Must make all tests Green  ✅|
 | 5  | <a href="https://github.com/ImesashviliIrakli/LinqToObjects">LinqToObjects</a> | Must make all tests Green ✅|
