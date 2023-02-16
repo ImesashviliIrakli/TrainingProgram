@@ -60,6 +60,7 @@
 | 4  | <a href="https://github.com/ImesashviliIrakli/WorkingWithArrays">WorkingWithArrays</a> | Must make all tests Green  ✅|
 | 5  | <a href="https://github.com/ImesashviliIrakli/LinqToObjects">LinqToObjects</a> | Must make all tests Green ✅|
 | 6  | <a href="https://github.com/ImesashviliIrakli/ClassesAndObjects">ClassesAndObjects</a> | Must make all tests Green ✅|
+| 7  | <a href="https://github.com/ImesashviliIrakli/ExceptionHandling">ExceptionHandling</a> | Must make all tests Green ✅|
 
 <h2>Part 2 - SQL Fundamentals.</h2>
 
