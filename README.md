@@ -37,7 +37,7 @@
 
 # 3️⃣ ASP.NET
 
-## Pluralsight Paths
+## Pluralsight
 
 - [ASP.NET Core 6](https://app.pluralsight.com/paths/skill/aspnet-core-6)
   - ASP.NET Core: Big Picture
