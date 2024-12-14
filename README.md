@@ -1,21 +1,12 @@
 # Training Program
-
-## Resources
-
-- [**learn.microsoft.com**](https://learn.microsoft.com/en-us/)
-- [**pluralsight.com**](https://app.pluralsight.com/library/)
-- [**code-maze.com**](https://code-maze.com/)
-- [**Books on Google Drive**](https://drive.google.com/drive/u/5/folders/0APnGHKQXjx1OUk9PVA)
-
 ---
+# 1️⃣ C#
 
-## 1️⃣ C#
-
-### Books
+## Books
 
 - Daniel Solis, Cal Schrotenboer - *Illustrated C# 7*
 
-### Tasks
+## Tasks
 
 | **№** | **Task Name** | **Goal** |
 |-------|---------------|----------|
@@ -29,9 +20,7 @@
 
 ---
 
-## 2️⃣ T-SQL
-
-### Resources
+# 2️⃣ T-SQL
 
 - **W3Schools**: [SQL Syntax](https://www.w3schools.com/sql/default.asp)
 - **Pluralsight**:  
@@ -46,9 +35,9 @@
 
 ---
 
-## 3️⃣ ASP.NET
+# 3️⃣ ASP.NET
 
-### Pluralsight Paths
+## Pluralsight Paths
 
 - [ASP.NET Core 6](https://app.pluralsight.com/paths/skill/aspnet-core-6)
   - ASP.NET Core: Big Picture
@@ -59,9 +48,30 @@
 
 ---
 
-## 4️⃣ Dapper
+# 4️⃣ Dapper
 
-- [Dapper Official Documentation]([https://dapper-tutorial.net/dapper](https://www.learndapper.com/))
+- [Dapper Official Documentation](https://www.learndapper.com/)
 
 ---
+
+# ➕ Resources for Learning C#, .NET, and SQL  
+
+Welcome to this curated list of resources for improving your knowledge and skills in **C#**, **.NET**, and **SQL**. Whether you're a beginner or an experienced developer, these resources will help you stay ahead in your learning journey.  
+
+## 🌐📚 Online Tutorials and Platforms 
+
+- [**Dotnet Tutorials**](https://dotnettutorials.net/)  
+  A comprehensive collection of tutorials covering .NET Core, C#, Entity Framework, and more.  
+
+- [**Pluralsight**](https://app.pluralsight.com/library/)  
+  Offers a wide variety of video courses on .NET, SQL, and software development best practices.  
+
+- [**Code-Maze**](https://code-maze.com/)  
+  Focuses on practical .NET and C# tutorials, including clean code principles and best practices.  
+
+- [**Microsoft Learn**](https://learn.microsoft.com/en-us/)  
+  Official learning platform for .NET, Azure, and SQL Server, with interactive tutorials and documentation.
+  
+- [**Books on Google Drive**](https://drive.google.com/drive/u/5/folders/0APnGHKQXjx1OUk9PVA)  
+  A collection of programming-related books for in-depth learning.  
 
