@@ -1,12 +1,12 @@
 
 ---
-# 1️⃣ C#
+# 1️⃣ C# 📟
 
-## Book 📚
+## Resources ⚒️
 
-- Daniel Solis, Cal Schrotenboer - *Illustrated C# 7*
+-  Book 📚 *Illustrated C# 7*
 
-## Tasks 🧾
+## Tasks 📝
 
 | **№** | **Task Name** | **Goal** |
 |-------|---------------|----------|
@@ -20,7 +20,7 @@
 
 ---
 
-# 2️⃣ T-SQL
+# 2️⃣ T-SQL 🛢️
 
 ## Resources ⚒️
 
@@ -38,7 +38,7 @@
 
 ---
 
-# 3️⃣ ASP.NET
+# 3️⃣ ASP.NET ⚙️
 
 ## Resources ⚒️
 
