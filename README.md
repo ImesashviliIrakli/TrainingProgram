@@ -9,7 +9,7 @@
 
 ---
 
-## Part 1: C# Fundamentals
+## 1️⃣ C#
 
 ### Books
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Part 2: SQL Fundamentals
+## 2️⃣ T-SQL
 
 ### Resources
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Part 3: .NET Fundamentals
+## 3️⃣ ASP.NET
 
 ### Pluralsight Paths
 
@@ -59,9 +59,7 @@
 
 ---
 
-## Part 4: ORM's
-
-### Dapper
+## 4️⃣ Dapper
 
 - [Dapper Official Documentation]([https://dapper-tutorial.net/dapper](https://www.learndapper.com/))
 
