@@ -2,11 +2,11 @@
 ---
 # 1️⃣ C#
 
-## Books
+## Book 📚
 
 - Daniel Solis, Cal Schrotenboer - *Illustrated C# 7*
 
-## Tasks
+## Tasks 🧾
 
 | **№** | **Task Name** | **Goal** |
 |-------|---------------|----------|
@@ -22,7 +22,10 @@
 
 # 2️⃣ T-SQL
 
-- **W3Schools**: [SQL Syntax](https://www.w3schools.com/sql/default.asp)
+## Resources ⚒️
+
+- **W3Schools**: [SQL Fundamentals](https://www.w3schools.com/sql/default.asp)
+  
 - **Pluralsight**:  
   - [Querying Data with T-SQL from SQL Server](https://app.pluralsight.com/paths/skill/querying-data-with-t-sql-from-sql-server)
     - Querying Data Using T-SQL
@@ -37,18 +40,21 @@
 
 # 3️⃣ ASP.NET
 
-## Pluralsight
+## Resources ⚒️
 
-- [ASP.NET Core 6](https://app.pluralsight.com/paths/skill/aspnet-core-6)
-  - ASP.NET Core: Big Picture
-  - ASP.NET Core Fundamentals
-  - Debugging and Error Handling in ASP.NET Core
-  - Logging and Monitoring in ASP.NET Core
-  - Dependency Injection in ASP.NET Core
+- Pluralsight
+  - [ASP.NET Core 6](https://app.pluralsight.com/paths/skill/aspnet-core-6)
+    - ASP.NET Core: Big Picture
+    - ASP.NET Core Fundamentals
+    - Debugging and Error Handling in ASP.NET Core
+    - Logging and Monitoring in ASP.NET Core
+    - Dependency Injection in ASP.NET Core
 
 ---
 
 # 4️⃣ Dapper
+
+## Resources ⚒️
 
 - [Dapper Official Documentation](https://www.learndapper.com/)
 
