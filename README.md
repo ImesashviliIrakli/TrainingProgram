@@ -63,7 +63,7 @@
 
 ### Dapper
 
-- [Dapper Official Documentation](https://dapper-tutorial.net/dapper)
+- [Dapper Official Documentation]([https://dapper-tutorial.net/dapper](https://www.learndapper.com/))
 
 ---
 
